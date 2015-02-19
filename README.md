@@ -1,4 +1,3 @@
-# mdfile
 
 # Commenting guidelines:
 
